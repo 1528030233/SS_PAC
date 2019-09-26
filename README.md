@@ -12,6 +12,6 @@
 
 Xampp Download
 
-https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/
-https://cfhcable.dl.sourceforge.net/project/xampp/XAMPP%20Linux/7.3.9/xampp-linux-x64-7.3.9-0-installer.run
-https://downloads.bitnami.com/files/stacks/wordpress/5.2.3-0/bitnami-wordpress-5.2.3-0-module-linux-x64-installer.run
+[Xampp资源首页](https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/ "Source")
+[Xampp_7.3.9.run](https://cfhcable.dl.sourceforge.net/project/xampp/XAMPP%20Linux/7.3.9/xampp-linux-x64-7.3.9-0-installer.run "下载Linux安装包")
+[Bitnami Wordpress 5.3.2](https://downloads.bitnami.com/files/stacks/wordpress/5.2.3-0/bitnami-wordpress-5.2.3-0-module-linux-x64-installer.run "wordpress5.3.2")
