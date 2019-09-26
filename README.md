@@ -11,6 +11,7 @@
 请把各类网内暂时不能访问的学习网站加入该PAC文档,可以合适加入网站注释和修改时间,很感谢您的帮助
 
 Xampp Download
-https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/
 
+https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/
 https://cfhcable.dl.sourceforge.net/project/xampp/XAMPP%20Linux/7.3.9/xampp-linux-x64-7.3.9-0-installer.run
+https://downloads.bitnami.com/files/stacks/wordpress/5.2.3-0/bitnami-wordpress-5.2.3-0-module-linux-x64-installer.run
